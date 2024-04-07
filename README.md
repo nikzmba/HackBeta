@@ -4,4 +4,4 @@ In an era where data overflows yet remains largely untapped, the idea for Insigh
 
 ## What it Does
 InsightPulse harnesses advanced NLP techniques to analyze vast datasets, identify critical entities, products, and events, and detect underlying trends and seasonal behaviors. It simplifies complex data into clear, actionable insights, enabling businesses to refine their strategies, optimize operations, and gain a competitive edge. From understanding consumer behavior to forecasting market trends, InsightPulse brings valuable insights, empowering businesses to proactively navigate and thrive in their markets.
-![image](https://github.com/nikzmba/HackBeta/assets/47696485/fd5e7f82-d506-45e7-b20c-ded0854b2877)
+
