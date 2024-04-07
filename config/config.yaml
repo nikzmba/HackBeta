@@ -6,4 +6,6 @@ data_ingestion:
   source_file_path: /Users/admin/Downloads/Leather_Mag_Text_Cleaned.csv
   local_data_file: artifacts/data_ingestion/Leather_Mag_Text_Cleaned.csv
   # unzip_dir: artifacts/data_ingestion
-
+data_preparation:
+    root_dir: artifacts/data_preparation
+    local_data_file: artifacts/data_ingestion/Leather_Mag_Text_Cleaned.csv
